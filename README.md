@@ -1,5 +1,4 @@
-<h1> Hi, I'm Raunak!</h1>
-<img src="https://github.com/raunnieo/raunnieo/blob/main/raunnieo.gif" alt="👋 Hi there! I'm reza" title="👋 Hi there! I'm reza"/>
+<img src="https://github.com/raunnieo/raunnieo/blob/main/raunnieo.gif" alt="👋 “hey, its raun here, welcome to my github” " title="👋 “hey, its raun here, welcome to my github” "/>
 <div align="justify">
 
 
