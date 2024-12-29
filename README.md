@@ -102,7 +102,7 @@
     </td>
     <td align="center" width="25">
       <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" alt="NodeJs" width="25" height="25" />
-      <br>Express
+      <br>NodeJs
     </td>
     <td align="center" width="25">
       <img src="https://skillicons.dev/icons?i=express" alt="Express" width="25" height="25" />
