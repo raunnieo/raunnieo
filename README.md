@@ -27,7 +27,7 @@
 
   yo! hello world there! welcome to my github. i'm raunaĸ (raun), a total tech & design geek. currently, vibing over commodifying problems into products or projects— building interactive web apps. i'm all about problem slaying and concept playing, so at the core, i'm just a tech gal crafting her carbon footprints, if you’re feelin’ my vibe, hit me up anywhere, i’m all over the web ;)  
 
-<h2 align = center>some stuff I've played with and lowkey into</h2>
+<h2 align = center>🛠️some stuff I've played with and lowkey into</h2>
 
 <table align = center>
   <!-- Programming Languages -->
@@ -127,18 +127,16 @@
   </tr>
 </table>
 
-<h2 align = center>some problems slayed and projects made</h2>
-
+<h2 align = center>👨‍💻some problems slayed and projects made</h2>
 
 <div align= center>
-  <a href="https://github.com/raunnieo/sehpaathi">
+  <a href="https://sehpaathi.vercel.app">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raunnieo&repo=sehpaathi&title_color=f3ab0d&text_color=f3ab0d&icon_color=f3ab0d&bg_color=0d1117" alt="nqueen-visualizer" />
 </a>
-  <a href="https://github.com/raunnieo/ZenStreet.ai">
+  <a href="https://zen-street-ai.vercel.app">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raunnieo&repo=ZenStreet.ai&title_color=f3ab0d&text_color=f3ab0d&icon_color=f3ab0d&bg_color=0d1117" alt="nqueen-visualizer" />
-</a><br>
-
-
+</a>
+</div>
+<br>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=raunnieo&style=flat-square&color=%230d1117" alt=""></p>
-
 </div>
