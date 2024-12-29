@@ -25,7 +25,7 @@
   </div>
   <br>
 
-  yo! hello world there! welcome to my github. i'm raunaĸ (raun), a total tech & design geek. currently, vibing over commodifying problems into products or projects— building interactive web apps. i'm all about problem slaying and concept playing, so at the core, i'm just a tech gal crafting her carbon footprints, if you’re feelin’ my vibe, hit me up anywhere, i’m all over the web ;)  
+  yo! hello world there! welcome to my github. i'm raunaĸ (raun), a total tech & design geek. currently, vibing over commodifying problems into products or projects— building interactive web apps. i'm all about problem slaying and concept playing, so at the core, it's just a tech gal crafting her carbon footprints, if you’re feeling the vibe, hit me up anywhere, i’m all over the web ;)  
 
 <h2 align = center>🛠️some stuff I've played with and lowkey into</h2>
 
