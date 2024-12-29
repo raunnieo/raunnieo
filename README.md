@@ -37,10 +37,6 @@
   </tr>
   <tr>
     <td align="center" width="20">
-      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" alt="C++" width="20" height="20" />
-      <br>C
-    </td>
-    <td align="center" width="20">
       <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="20" height="20" />
       <br>C++
     </td>
@@ -94,7 +90,7 @@
     </td>
     <td align="center" width="20">
       <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="20" height="20" />
-      <br>Tailwind CSS
+      <br>Tailwind 
     </td>
     <td align="center" width="20">
       <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="20" height="20" />
@@ -127,10 +123,6 @@
     <td align="center" width="20">
       <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" width="20" height="20" />
       <br>Vercel
-    </td>
-    <td align="center" width="20">
-      <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="20" height="20" />
-      <br>VS Code
     </td>
   </tr>
 </table>
