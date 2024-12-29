@@ -136,11 +136,9 @@
 </a>
   <a href="https://github.com/raunnieo/ZenStreet.ai">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raunnieo&repo=ZenStreet.ai&title_color=f3ab0d&text_color=f3ab0d&icon_color=f3ab0d&bg_color=0d1117" alt="nqueen-visualizer" />
-</a>
+</a><br>
 
-<br>
 
-</div>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=raunnieo&style=flat-square&color=%230d1117" alt=""></p>
 
 </div>
