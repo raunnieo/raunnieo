@@ -27,7 +27,7 @@
 
   yo! hello world there! welcome to my github. i'm raunaĸ (raun), a total tech & design geek. currently, vibing over commodifying problems into products or projects— building interactive web apps. i'm all about problem slaying and concept playing, so at the core, i'm just a tech gal crafting her carbon footprints, if you’re feelin’ my vibe, hit me up anywhere, i’m all over the web ;)  
 
-<h3>some stuff I've played with and lowkey into.</h3>
+<h2 align = center>some stuff I've played with and lowkey into</h2>
 
 <table align = center>
   <!-- Programming Languages -->
@@ -127,23 +127,18 @@
   </tr>
 </table>
 
-<h3>some projects that made those dent on my github</h3>
+<h2 align = center>some problems slayed and projects made</h2>
 
 
 <div align= center>
-<a href="https://github.com/raunnieo/nqueen-visualizer">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raunnieo&repo=nqueen-visualizer&title_color=f3ab0d&text_color=f3ab0d&icon_color=f3ab0d&bg_color=0d1117" alt="nqueen-visualizer" />
-</a>
   <a href="https://github.com/raunnieo/sehpaathi">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raunnieo&repo=sehpaathi&title_color=f3ab0d&text_color=f3ab0d&icon_color=f3ab0d&bg_color=0d1117" alt="nqueen-visualizer" />
 </a>
   <a href="https://github.com/raunnieo/ZenStreet.ai">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raunnieo&repo=ZenStreet.ai&title_color=f3ab0d&text_color=f3ab0d&icon_color=f3ab0d&bg_color=0d1117" alt="nqueen-visualizer" />
 </a>
-<a href="https://github.com/raunnieo/survival-predictor">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raunnieo&repo=survival-predictor&title_color=f3ab0d&text_color=f3ab0d&icon_color=f3ab0d&bg_color=0d1117" alt="survival-predictor" />
-</a>
 
+<br>
 
 </div>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=raunnieo&style=flat-square&color=%230d1117" alt=""></p>
