@@ -36,48 +36,48 @@
     <th colspan="5" align="center">Frameworks and Libraries</th>
   </tr>
   <tr>
-    <td align="center" width="25">
-      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" alt="C++" width="25" height="25" />
+    <td align="center" width="20">
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" alt="C++" width="20" height="20" />
       <br>C
     </td>
-    <td align="center" width="25">
-      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="25" height="25" />
+    <td align="center" width="20">
+      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="20" height="20" />
       <br>C++
     </td>
-    <td align="center" width="25">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="25" height="25" />
+    <td align="center" width="20">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="20" height="20" />
       <br>Python
     </td>
-    <td align="center" width="25">
-      <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="25" height="25" />
+    <td align="center" width="20">
+      <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="20" height="20" />
       <br>HTML
     </td>
-    <td align="center" width="25">
-      <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="25" height="25" />
+    <td align="center" width="20">
+      <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="20" height="20" />
       <br>JavaScript
     </td>
-    <td align="center" width="25">
-      <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" width="25" height="25" />
+    <td align="center" width="20">
+      <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" width="20" height="20" />
       <br>TypeScript
     </td>
-        <td align="center" width="25">
-      <img src="https://github.com/marwin1991/profile-technology-icons/assets/76012086/4ec200c2-acdf-4c42-b419-cd49cba3d09f" alt="NumPy" width="25" height="25" />
+        <td align="center" width="20">
+      <img src="https://github.com/marwin1991/profile-technology-icons/assets/76012086/4ec200c2-acdf-4c42-b419-cd49cba3d09f" alt="NumPy" width="20" height="20" />
       <br>NumPy
     </td>
-    <td align="center" width="25">
-      <img src="https://github.com/marwin1991/profile-technology-icons/assets/76012086/24b02d77-2f28-43c7-b5d6-e15e3395851b" alt="Pandas" width="25" height="25" />
+    <td align="center" width="20">
+      <img src="https://github.com/marwin1991/profile-technology-icons/assets/76012086/24b02d77-2f28-43c7-b5d6-e15e3395851b" alt="Pandas" width="20" height="20" />
       <br>Pandas
     </td>
-    <td align="center" width="25">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" width="25" height="25" />
+    <td align="center" width="20">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" width="20" height="20" />
       <br>Matplotlib
     </td>
-    <td align="center" width="25">
-      <img src="https://github.com/marwin1991/profile-technology-icons/assets/76012086/cbaed680-d3a4-4693-9de6-23cdf5345928" alt="PyGame" width="25" height="25" />
+    <td align="center" width="20">
+      <img src="https://github.com/marwin1991/profile-technology-icons/assets/76012086/cbaed680-d3a4-4693-9de6-23cdf5345928" alt="PyGame" width="20" height="20" />
       <br>PyGame
     </td>
-    <td align="center" width="25">
-      <img src="https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png" alt="Jupyter" width="25" height="25" />
+    <td align="center" width="20">
+      <img src="https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png" alt="Jupyter" width="20" height="20" />
       <br>Jupyter
     </td>
   </tr>
@@ -88,48 +88,48 @@
     <th colspan="5" align="center">Other Tools</th>
   </tr>
   <tr>
-    <td align="center" width="25">
-      <img src="https://skillicons.dev/icons?i=react" alt="ReactJS" width="25" height="25" />
+    <td align="center" width="20">
+      <img src="https://skillicons.dev/icons?i=react" alt="ReactJS" width="20" height="20" />
       <br>ReactJS
     </td>
-    <td align="center" width="25">
-      <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="25" height="25" />
+    <td align="center" width="20">
+      <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="20" height="20" />
       <br>Tailwind CSS
     </td>
-    <td align="center" width="25">
-      <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="25" height="25" />
+    <td align="center" width="20">
+      <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="20" height="20" />
       <br>Firebase
     </td>
-    <td align="center" width="25">
-      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" alt="NodeJs" width="25" height="25" />
+    <td align="center" width="20">
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" alt="NodeJs" width="20" height="20" />
       <br>NodeJs
     </td>
-    <td align="center" width="25">
-      <img src="https://skillicons.dev/icons?i=express" alt="Express" width="25" height="25" />
+    <td align="center" width="20">
+      <img src="https://skillicons.dev/icons?i=express" alt="Express" width="20" height="20" />
       <br>Express
     </td>
-    <td align="center" width="25">
-      <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="25" height="25" />
+    <td align="center" width="20">
+      <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="20" height="20" />
       <br>MongoDB
     </td>
-    <td align="center" width="25">
-      <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="25" height="25" />
+    <td align="center" width="20">
+      <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="20" height="20" />
       <br>MySQL
     </td>
-    <td align="center" width="25">
-      <img src="https://skillicons.dev/icons?i=notion" alt="Notion" width="25" height="25" />
+    <td align="center" width="20">
+      <img src="https://skillicons.dev/icons?i=notion" alt="Notion" width="20" height="20" />
       <br>Notion
     </td>
-    <td align="center" width="25">
-      <img src="https://skillicons.dev/icons?i=git" alt="Git" width="25" height="25" />
+    <td align="center" width="20">
+      <img src="https://skillicons.dev/icons?i=git" alt="Git" width="20" height="20" />
       <br>Git
     </td>
-    <td align="center" width="25">
-      <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" width="25" height="25" />
+    <td align="center" width="20">
+      <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" width="20" height="20" />
       <br>Vercel
     </td>
-    <td align="center" width="25">
-      <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="25" height="25" />
+    <td align="center" width="20">
+      <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="20" height="20" />
       <br>VS Code
     </td>
   </tr>
