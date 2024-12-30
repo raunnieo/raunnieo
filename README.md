@@ -23,11 +23,11 @@
   <img src="https://img.shields.io/badge/Duolingo-%230d1117?style=for-the-badge&logo=duolingo&logoColor=58CC02">
   </a>
   </div>
-  <br>
+  <br>  
 
-  yo! hello world there! welcome to my github. i'm raunaĸ (raun), a total tech & design geek. currently, vibing over commodifying problems into products or projects— building interactive web apps. i'm all about problem slaying and concept playing, so at the core, it's just a tech gal crafting her carbon footprints, if you’re feeling the vibe, hit me up anywhere, i’m all over the web ;)  
+I’m raunak, a tech and design geek who is forever curious about the art of turning challenges into creations. currently, my days revolve around commodifying problems into products or projects— building interactive web apps that don’t just function but resonate. At heart, I’m a seeker, not just of solutions but of the stories that problems tell. Each line of code, every crafted interface, feels like leaving behind a part of myself, a digital echo of what I stand for: simplicity, purpose, and a touch of the extraordinary. If these words spark a thought in you or if you'd simply like to connect, I’m just a hello world away.
 
-<h2 align = center>🛠️some stuff I've played with and lowkey into</h2>
+<h2 align = center>🛠️ some stuff I've learned and imbibed </h2>
 
 <table align = center>
   <!-- Programming Languages -->
@@ -127,7 +127,7 @@
   </tr>
 </table>
 
-<h2 align = center>👨‍💻some problems slayed and projects made</h2>
+<h2 align = center>👨‍💻 some problems slayed and projects made</h2>
 
 <div align= center>
   <a href="https://sehpaathi.vercel.app">
