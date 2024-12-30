@@ -1,5 +1,6 @@
 <img src="https://github.com/raunnieo/raunnieo/blob/main/raunnieo.gif" alt="“hey, its raun here, welcome to my github” " title="“hey, its raun here, welcome to my github” "/>
 <div align="justify">
+<div align="center">  
 <div align="center">
   <a href="https://www.linkedin.com/in/raunakmandil">
   <img src="https://img.shields.io/badge/Linkedin-%230d1117.svg?style=for-the-badge&logo=Linkedin&logoColor=%231DA1F2">
@@ -25,7 +26,18 @@
   </div>
   <br>  
 
-I’m raunak, a tech and design geek who is forever curious about the art of turning challenges into creations. currently, my days revolve around commodifying problems into products or projects— building interactive web apps that don’t just function but resonate. At heart, I’m a seeker, not just of solutions but of the stories that problems tell. Each line of code, every crafted interface, feels like leaving behind a part of myself, a digital echo of what I stand for: simplicity, purpose, and a touch of the extraordinary. If these words spark a thought in you or if you'd simply like to connect, I’m just a hello world away.
+<div align="justify">I’m raunak, a tech and design geek who is forever curious about the art of turning challenges into creations. currently, my days revolve around commodifying problems into products or projects— building interactive web apps that don’t just function but resonate. At heart, I’m a seeker, not just of solutions but of the stories that problems tell. Each line of code, every crafted interface, feels like leaving behind a part of myself, a digital echo of what I stand for: simplicity, purpose, and a touch of the extraordinary. If these words spark a thought in you or if you'd simply like to connect, I’m just a hello world away.</div>
+
+<h2 align = center>👨‍💻 some problems slayed and projects made</h2>
+
+<div align= center>
+  <a href="https://sehpaathi.vercel.app">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raunnieo&repo=sehpaathi&title_color=f3ab0d&text_color=f3ab0d&icon_color=f3ab0d&bg_color=0d1117" alt="nqueen-visualizer" />
+</a>
+  <a href="https://zen-street-ai.vercel.app">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raunnieo&repo=ZenStreet.ai&title_color=f3ab0d&text_color=f3ab0d&icon_color=f3ab0d&bg_color=0d1117" alt="nqueen-visualizer" />
+</a>
+</div>
 
 <h2 align = center>🛠️ some stuff I've learned and imbibed </h2>
 
@@ -127,16 +139,8 @@ I’m raunak, a tech and design geek who is forever curious about the art of tur
   </tr>
 </table>
 
-<h2 align = center>👨‍💻 some problems slayed and projects made</h2>
+<em>I'm enthusiastic about creating, collaborating, and contributing — so join me if our paths align.</em>
 
-<div align= center>
-  <a href="https://sehpaathi.vercel.app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raunnieo&repo=sehpaathi&title_color=f3ab0d&text_color=f3ab0d&icon_color=f3ab0d&bg_color=0d1117" alt="nqueen-visualizer" />
-</a>
-  <a href="https://zen-street-ai.vercel.app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raunnieo&repo=ZenStreet.ai&title_color=f3ab0d&text_color=f3ab0d&icon_color=f3ab0d&bg_color=0d1117" alt="nqueen-visualizer" />
-</a>
-</div>
 <br>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=raunnieo&style=flat-square&color=%230d1117" alt=""></p>
 </div>
