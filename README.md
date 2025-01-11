@@ -33,8 +33,8 @@
 <div align="justify">I’m raunak, a tech and design geek who is forever curious about the art of turning challenges into creations. currently, my days revolve around commodifying problems into products or projects— building interactive web apps that don’t just function but resonate. At heart, I’m a seeker, not just of solutions but of the stories that problems tell. Each line of code, every crafted interface, feels like leaving behind a part of myself, a digital echo of what I stand for: simplicity, purpose, and a touch of the extraordinary. If these words spark a thought in you or if you'd simply like to connect, I’m just a hello world away.</div>
 
 
-
-<h2 align = center>some problems slayed and projects made</h2>
+</div>
+<h2 align = left>some problems slayed and projects made</h2>
 
 <div align= center>
   <a href="https://sehpaathi.vercel.app">
@@ -46,7 +46,7 @@
 </div>
 
 
-<h2 align = center>some stuff I've learned and imbibed </h2>
+<h2 align = left>some stuff I've learned and imbibed </h2>
 
 <table align = center>
   <!-- Programming Languages -->
@@ -145,9 +145,9 @@
     </td>
   </tr>
 </table>
-
-<em>I'm enthusiastic about creating, collaborating, and contributing — so join me if our paths align.</em>
-
+<div align="center"
+<em  >I'm enthusiastic about creating, collaborating, and contributing — so join me if our paths align.</em>
+</div>
 <br>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=raunnieo&style=flat-square&color=%230d1117" alt=""></p>
 </div>
